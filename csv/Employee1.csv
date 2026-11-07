@@ -1,0 +1,5 @@
+empid,empname,Gender,department,role,Age,Basic_salary
+101,Ali,Male,Support,Data Analyst,34,45000.0
+102,Noman,Male,IT,Data Analyst,40,50000.0
+103,Sara,Female,Support,Software Engineer,20,45000
+104,Juweriya,Female,IT,Frontend Developer,22,48000
